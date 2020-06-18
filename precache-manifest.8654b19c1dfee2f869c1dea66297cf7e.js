@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0c181840d50861221d0dc3413a79e5a1",
+    "revision": "cd1767aefdf95e19bd7c0a4517b62469",
     "url": "/Dau-Reviews/index.html"
   },
   {
-    "revision": "78a0803160a509abaebf",
+    "revision": "6365c711938534fc1301",
     "url": "/Dau-Reviews/static/css/3.9700ff68.chunk.css"
   },
   {
-    "revision": "c3bed43d0ca7dc846e64",
-    "url": "/Dau-Reviews/static/css/main.688f0e5a.chunk.css"
+    "revision": "d0131e004828e6d934d5",
+    "url": "/Dau-Reviews/static/css/main.fc5e4f24.chunk.css"
   },
   {
-    "revision": "e72a5722e8812d00ff59",
-    "url": "/Dau-Reviews/static/js/2.770d3948.chunk.js"
+    "revision": "50a3afe76bd5b4058c19",
+    "url": "/Dau-Reviews/static/js/2.0e7952d9.chunk.js"
   },
   {
     "revision": "4a8c02487a23b32abdf84044a925553a",
-    "url": "/Dau-Reviews/static/js/2.770d3948.chunk.js.LICENSE.txt"
+    "url": "/Dau-Reviews/static/js/2.0e7952d9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "78a0803160a509abaebf",
-    "url": "/Dau-Reviews/static/js/3.951380d0.chunk.js"
+    "revision": "6365c711938534fc1301",
+    "url": "/Dau-Reviews/static/js/3.cbb42dc1.chunk.js"
   },
   {
-    "revision": "c3bed43d0ca7dc846e64",
-    "url": "/Dau-Reviews/static/js/main.b4a488dc.chunk.js"
+    "revision": "d0131e004828e6d934d5",
+    "url": "/Dau-Reviews/static/js/main.24676167.chunk.js"
   },
   {
-    "revision": "3a965ecbd7b16c3f9524",
-    "url": "/Dau-Reviews/static/js/runtime-main.c83e1efa.js"
+    "revision": "f7970f1b05adfe6207e3",
+    "url": "/Dau-Reviews/static/js/runtime-main.459a3710.js"
   },
   {
     "revision": "83fe5e5456b57eafde049108a4de52ab",
@@ -76,7 +76,39 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Dau-Reviews/static/media/dau.ebb5c0ec.svg"
   },
   {
+    "revision": "0b1f6bb50f195e784fa86c3ba7d5a1fc",
+    "url": "/Dau-Reviews/static/media/dau_brave_people.0b1f6bb5.md"
+  },
+  {
+    "revision": "5886a20b33e7732df18618f23b6734ad",
+    "url": "/Dau-Reviews/static/media/dau_degeneration.5886a20b.md"
+  },
+  {
+    "revision": "49621031f198347563bdef5edf9361a9",
+    "url": "/Dau-Reviews/static/media/dau_katya_tanya.49621031.md"
+  },
+  {
     "revision": "c32c471a427a6ce5caf3ed3f95c893c5",
     "url": "/Dau-Reviews/static/media/dau_natasha.c32c471a.md"
+  },
+  {
+    "revision": "7ef690f8f9d0fe116f83d9bef4e55e4d",
+    "url": "/Dau-Reviews/static/media/dau_new_man.7ef690f8.md"
+  },
+  {
+    "revision": "afcdb8b9c6704ec0fcaa32447f9480b5",
+    "url": "/Dau-Reviews/static/media/dau_nikita_tanya.afcdb8b9.md"
+  },
+  {
+    "revision": "501a0a464c1f5ddae33de1527ba8d2ce",
+    "url": "/Dau-Reviews/static/media/dau_nora_mother.501a0a46.md"
+  },
+  {
+    "revision": "03eecc82c9b80867e2301c628d7addfa",
+    "url": "/Dau-Reviews/static/media/dau_string_theory.03eecc82.md"
+  },
+  {
+    "revision": "b2c32a3dd94f38ccde7e6ea07e57eb0f",
+    "url": "/Dau-Reviews/static/media/dau_three_days.b2c32a3d.md"
   }
 ]);
