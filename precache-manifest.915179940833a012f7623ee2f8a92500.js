@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b10d9fd147d2d01d8cb22facac7ce5a",
+    "revision": "379d0321359d1b9d2888202b6c2d999e",
     "url": "/ratibordas/Dau-Reviews/index.html"
   },
   {
-    "revision": "35e94b0ef32a4e7a8b86",
+    "revision": "89b2afbe9236a41eaad7",
     "url": "/ratibordas/Dau-Reviews/static/css/3.fbc32063.chunk.css"
   },
   {
-    "revision": "fb374cce94ec8bc1fc1b",
+    "revision": "de943c27e044a20e01ab",
     "url": "/ratibordas/Dau-Reviews/static/css/main.7165bc07.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ratibordas/Dau-Reviews/static/js/2.770d3948.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "35e94b0ef32a4e7a8b86",
-    "url": "/ratibordas/Dau-Reviews/static/js/3.9c7abb56.chunk.js"
+    "revision": "89b2afbe9236a41eaad7",
+    "url": "/ratibordas/Dau-Reviews/static/js/3.951380d0.chunk.js"
   },
   {
-    "revision": "fb374cce94ec8bc1fc1b",
-    "url": "/ratibordas/Dau-Reviews/static/js/main.8a5dbd7f.chunk.js"
+    "revision": "de943c27e044a20e01ab",
+    "url": "/ratibordas/Dau-Reviews/static/js/main.b4a488dc.chunk.js"
   },
   {
-    "revision": "c9f2a964d6417cae41f1",
-    "url": "/ratibordas/Dau-Reviews/static/js/runtime-main.7c34449a.js"
+    "revision": "6d0cf6305fcfd25cdaef",
+    "url": "/ratibordas/Dau-Reviews/static/js/runtime-main.0a4c65e8.js"
   },
   {
     "revision": "83fe5e5456b57eafde049108a4de52ab",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ratibordas/Dau-Reviews/precache-manifest.32bf19a51a8cf11bedadda1d4c6d7f96.js"
+  "/ratibordas/Dau-Reviews/precache-manifest.915179940833a012f7623ee2f8a92500.js"
 );
 
 self.addEventListener('message', (event) => {

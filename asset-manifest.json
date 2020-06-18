@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ratibordas/Dau-Reviews/static/css/main.7165bc07.chunk.css",
-    "main.js": "/ratibordas/Dau-Reviews/static/js/main.8a5dbd7f.chunk.js",
-    "main.js.map": "/ratibordas/Dau-Reviews/static/js/main.8a5dbd7f.chunk.js.map",
-    "runtime-main.js": "/ratibordas/Dau-Reviews/static/js/runtime-main.7c34449a.js",
-    "runtime-main.js.map": "/ratibordas/Dau-Reviews/static/js/runtime-main.7c34449a.js.map",
+    "main.js": "/ratibordas/Dau-Reviews/static/js/main.b4a488dc.chunk.js",
+    "main.js.map": "/ratibordas/Dau-Reviews/static/js/main.b4a488dc.chunk.js.map",
+    "runtime-main.js": "/ratibordas/Dau-Reviews/static/js/runtime-main.0a4c65e8.js",
+    "runtime-main.js.map": "/ratibordas/Dau-Reviews/static/js/runtime-main.0a4c65e8.js.map",
     "static/js/2.770d3948.chunk.js": "/ratibordas/Dau-Reviews/static/js/2.770d3948.chunk.js",
     "static/js/2.770d3948.chunk.js.map": "/ratibordas/Dau-Reviews/static/js/2.770d3948.chunk.js.map",
     "static/css/3.fbc32063.chunk.css": "/ratibordas/Dau-Reviews/static/css/3.fbc32063.chunk.css",
-    "static/js/3.9c7abb56.chunk.js": "/ratibordas/Dau-Reviews/static/js/3.9c7abb56.chunk.js",
-    "static/js/3.9c7abb56.chunk.js.map": "/ratibordas/Dau-Reviews/static/js/3.9c7abb56.chunk.js.map",
+    "static/js/3.951380d0.chunk.js": "/ratibordas/Dau-Reviews/static/js/3.951380d0.chunk.js",
+    "static/js/3.951380d0.chunk.js.map": "/ratibordas/Dau-Reviews/static/js/3.951380d0.chunk.js.map",
     "index.html": "/ratibordas/Dau-Reviews/index.html",
-    "precache-manifest.32bf19a51a8cf11bedadda1d4c6d7f96.js": "/ratibordas/Dau-Reviews/precache-manifest.32bf19a51a8cf11bedadda1d4c6d7f96.js",
+    "precache-manifest.915179940833a012f7623ee2f8a92500.js": "/ratibordas/Dau-Reviews/precache-manifest.915179940833a012f7623ee2f8a92500.js",
     "service-worker.js": "/ratibordas/Dau-Reviews/service-worker.js",
     "static/css/3.fbc32063.chunk.css.map": "/ratibordas/Dau-Reviews/static/css/3.fbc32063.chunk.css.map",
     "static/css/main.7165bc07.chunk.css.map": "/ratibordas/Dau-Reviews/static/css/main.7165bc07.chunk.css.map",
@@ -30,9 +30,9 @@
     "static/media/dau_natasha.md": "/ratibordas/Dau-Reviews/static/media/dau_natasha.c32c471a.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c34449a.js",
+    "static/js/runtime-main.0a4c65e8.js",
     "static/js/2.770d3948.chunk.js",
     "static/css/main.7165bc07.chunk.css",
-    "static/js/main.8a5dbd7f.chunk.js"
+    "static/js/main.b4a488dc.chunk.js"
   ]
 }
