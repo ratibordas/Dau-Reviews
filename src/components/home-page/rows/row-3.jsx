@@ -29,16 +29,20 @@ const Row3 = () => {
         </div>
             </div>
             <div className="col-sm-12 col-md-3 col-lg-3 col-xl-3">
+                <Link to="/Dau-Reviews/article/article-degeneration">
                 <figure>
                     <img src={degeneration} className="main__content__img-small" alt="дау вырождение" />
                     <figcaption>Дегенерация</figcaption>
-                </figure>
+                    </figure>
+                    </Link>
             </div>
             <div className="col-sm-12 col-md-3 col-lg-3 col-xl-3">
+                <Link to="/Dau-Reviews/article/article-nikita-tanya">
                 <figure>
                     <img src={nikitaTanya} className="main__content__img-small" alt="дау никита таня" />
                     <figcaption>Никита Таня</figcaption>
-                </figure>
+                    </figure>
+                    </Link>
             </div>
 
 

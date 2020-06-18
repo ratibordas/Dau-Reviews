@@ -2,7 +2,7 @@ import React from 'react'
 import newMan from '../../../images/1.jpg';
 import treeDays from '../../../images/2.jpg';
 import noraMother from '../../../images/3.jpg';
-import { Link} from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 
 
@@ -27,22 +27,28 @@ const Row1 = () => {
 
             </div>
             <div className="col-sm-12 col-md-3 col-lg-3 col-xl-3 ">
+                <Link to="/Dau-Reviews/article/article-new-man">
                 <figure >
                     <img src={newMan} className="main__content__img-small" alt='дау новый человек' />
                     <figcaption>Новый Человек</figcaption>
-                </figure>
+                    </figure>
+                    </Link>
             </div>
             <div className="col-sm-12 col-md-3 col-lg-3 col-xl-3">
+                <Link to="/Dau-Reviews/article/article-three-days">
                 <figure>
                     <img src={treeDays} className="main__content__img-small" alt="дау три дня" />
                     <figcaption>Три Дня</figcaption>
-                </figure>
+                    </figure>
+                    </Link>
             </div>
             <div className="col-sm-12 col-md-3 col-lg-3 col-xl-3">
+               <Link to="/Dau-Reviews/article/article-nora-mama">
                 <figure>
                     <img src={noraMother} className="main__content__img-small" alt="дау нора мама" />
                     <figcaption>Нора Мама</figcaption>
-                </figure>
+                    </figure>
+                    </Link>
             </div>
         </div>
 

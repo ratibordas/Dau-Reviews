@@ -13,22 +13,28 @@ const Row2 = () => {
     
         <div className="row no-gutters">
       <div className="col-sm-12 col-md-3 col-lg-3 col-xl-3">
-        <figure>
+         <Link className="main__content__link" to="/Dau-Reviews/article/article-brave-people">
+          <figure>
           <img src={bravePeople} className="main__content__img-small" alt="дау смелые люди" />
           <figcaption>Смелые Люди</figcaption>
-        </figure>
+            </figure>
+            </Link>
       </div>
       <div className="col-sm-12 col-md-3 col-lg-3 col-xl-3">
-        <figure>
+       <Link to="/Dau-Reviews/article/article-katya-tanya">
+          <figure>
                     <img src={katyaTanya} className="main__content__img-small" alt="дау катя таня" />
                     <figcaption>Катя Таня</figcaption>
-        </figure>
+            </figure>
+            </Link>
       </div>
       <div className="col-sm-12 col-md-3 col-lg-3 col-xl-3">
-        <figure>
+        <Link to="/Dau-Reviews/article/article-string-theory">
+          <figure>
                     <img src={stringTheory} className="main__content__img-small" alt="дау теория струн" />
                     <figcaption>Теория Струн</figcaption>
-        </figure>
+            </figure>
+            </Link>
       </div>
       <div className="col-sm-12 col-md-3 col-lg-3 col-xl-3">
          <div className="main__content__text">
