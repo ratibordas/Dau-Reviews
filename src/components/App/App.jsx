@@ -15,13 +15,13 @@ const App = () => {
       {/* <Preloader/> */}
     <Router>
         <Switch>
-            <Route path="/about" component={AboutPage} />
-            <Route path="/" exact>
+            <Route path="/Dau-Reviews/about" component={AboutPage} />
+            <Route path="/Dau-Reviews" exact>
             <Suspense fallback={<Preloader/>}>
               <HomePage/>
                </Suspense> 
               </Route>
-        <Route path="/article/article-natasha">
+          <Route path="/Dau-Reviews/article/article-natasha">
           <ArticleNatasha/>
         </Route> 
       </Switch>

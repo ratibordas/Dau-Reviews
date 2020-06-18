@@ -12,7 +12,7 @@ const Row3 = () => {
     return (
         <div className="row no-gutters" style={{ borderBottom: '1px solid rgba(0,0,0,.15)', boxShadow: '0 0 7px rgba(0,0,0,.15)' }}>
             <div className="col-sm-12 col-md-3 col-lg-3 col-xl-3">
-               <Link className="main__content__link" to="/article/article-natasha">
+               <Link className="main__content__link" to="/Dau-Reviews/article/article-natasha">
                 <figure>
                     <img src={natasha} className="main__content__img-small" alt="дау наташа" />
                     <figcaption>Наташа</figcaption>
