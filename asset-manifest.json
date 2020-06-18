@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/ratibordas/Dau-Reviews/static/css/main.7165bc07.chunk.css",
+    "main.js": "/ratibordas/Dau-Reviews/static/js/main.8a5dbd7f.chunk.js",
+    "main.js.map": "/ratibordas/Dau-Reviews/static/js/main.8a5dbd7f.chunk.js.map",
+    "runtime-main.js": "/ratibordas/Dau-Reviews/static/js/runtime-main.7c34449a.js",
+    "runtime-main.js.map": "/ratibordas/Dau-Reviews/static/js/runtime-main.7c34449a.js.map",
+    "static/js/2.770d3948.chunk.js": "/ratibordas/Dau-Reviews/static/js/2.770d3948.chunk.js",
+    "static/js/2.770d3948.chunk.js.map": "/ratibordas/Dau-Reviews/static/js/2.770d3948.chunk.js.map",
+    "static/css/3.fbc32063.chunk.css": "/ratibordas/Dau-Reviews/static/css/3.fbc32063.chunk.css",
+    "static/js/3.9c7abb56.chunk.js": "/ratibordas/Dau-Reviews/static/js/3.9c7abb56.chunk.js",
+    "static/js/3.9c7abb56.chunk.js.map": "/ratibordas/Dau-Reviews/static/js/3.9c7abb56.chunk.js.map",
+    "index.html": "/ratibordas/Dau-Reviews/index.html",
+    "precache-manifest.32bf19a51a8cf11bedadda1d4c6d7f96.js": "/ratibordas/Dau-Reviews/precache-manifest.32bf19a51a8cf11bedadda1d4c6d7f96.js",
+    "service-worker.js": "/ratibordas/Dau-Reviews/service-worker.js",
+    "static/css/3.fbc32063.chunk.css.map": "/ratibordas/Dau-Reviews/static/css/3.fbc32063.chunk.css.map",
+    "static/css/main.7165bc07.chunk.css.map": "/ratibordas/Dau-Reviews/static/css/main.7165bc07.chunk.css.map",
+    "static/js/2.770d3948.chunk.js.LICENSE.txt": "/ratibordas/Dau-Reviews/static/js/2.770d3948.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/ratibordas/Dau-Reviews/static/media/1.83fe5e54.jpg",
+    "static/media/10.jpg": "/ratibordas/Dau-Reviews/static/media/10.064050d2.jpg",
+    "static/media/11.jpg": "/ratibordas/Dau-Reviews/static/media/11.ad2542af.jpg",
+    "static/media/2.jpg": "/ratibordas/Dau-Reviews/static/media/2.ceb44116.jpg",
+    "static/media/3.jpg": "/ratibordas/Dau-Reviews/static/media/3.0ffd8c47.jpg",
+    "static/media/4.jpg": "/ratibordas/Dau-Reviews/static/media/4.0f3ffd05.jpg",
+    "static/media/6.jpg": "/ratibordas/Dau-Reviews/static/media/6.3d41819e.jpg",
+    "static/media/7.png": "/ratibordas/Dau-Reviews/static/media/7.1e0e333d.png",
+    "static/media/8.jpg": "/ratibordas/Dau-Reviews/static/media/8.fcc3ffee.jpg",
+    "static/media/home-page.scss": "/ratibordas/Dau-Reviews/static/media/DecimaMonoX.bb150466.woff",
+    "static/media/dau.svg": "/ratibordas/Dau-Reviews/static/media/dau.ebb5c0ec.svg",
+    "static/media/dau_natasha.md": "/ratibordas/Dau-Reviews/static/media/dau_natasha.c32c471a.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c34449a.js",
+    "static/js/2.770d3948.chunk.js",
+    "static/css/main.7165bc07.chunk.css",
+    "static/js/main.8a5dbd7f.chunk.js"
+  ]
+}
