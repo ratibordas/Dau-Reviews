@@ -20,7 +20,7 @@ const App = () => {
 
   return (
     <>
-      {/* <Preloader/> */}
+      <Preloader/>
       <Router>
         <Switch>
           <Route path="/Dau-Reviews/about" component={AboutPage} />
