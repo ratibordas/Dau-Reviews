@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd1767aefdf95e19bd7c0a4517b62469",
+    "revision": "22fbf27460b6e3bbc0d185a10be9c8d8",
     "url": "/Dau-Reviews/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Dau-Reviews/static/css/3.9700ff68.chunk.css"
   },
   {
-    "revision": "d0131e004828e6d934d5",
+    "revision": "5478b958edde276a76e5",
     "url": "/Dau-Reviews/static/css/main.fc5e4f24.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Dau-Reviews/static/js/3.cbb42dc1.chunk.js"
   },
   {
-    "revision": "d0131e004828e6d934d5",
-    "url": "/Dau-Reviews/static/js/main.24676167.chunk.js"
+    "revision": "5478b958edde276a76e5",
+    "url": "/Dau-Reviews/static/js/main.625fd7fa.chunk.js"
   },
   {
     "revision": "f7970f1b05adfe6207e3",

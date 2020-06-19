@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Dau-Reviews/static/css/main.fc5e4f24.chunk.css",
-    "main.js": "/Dau-Reviews/static/js/main.24676167.chunk.js",
-    "main.js.map": "/Dau-Reviews/static/js/main.24676167.chunk.js.map",
+    "main.js": "/Dau-Reviews/static/js/main.625fd7fa.chunk.js",
+    "main.js.map": "/Dau-Reviews/static/js/main.625fd7fa.chunk.js.map",
     "runtime-main.js": "/Dau-Reviews/static/js/runtime-main.459a3710.js",
     "runtime-main.js.map": "/Dau-Reviews/static/js/runtime-main.459a3710.js.map",
     "static/js/2.0e7952d9.chunk.js": "/Dau-Reviews/static/js/2.0e7952d9.chunk.js",
@@ -11,7 +11,7 @@
     "static/js/3.cbb42dc1.chunk.js": "/Dau-Reviews/static/js/3.cbb42dc1.chunk.js",
     "static/js/3.cbb42dc1.chunk.js.map": "/Dau-Reviews/static/js/3.cbb42dc1.chunk.js.map",
     "index.html": "/Dau-Reviews/index.html",
-    "precache-manifest.8654b19c1dfee2f869c1dea66297cf7e.js": "/Dau-Reviews/precache-manifest.8654b19c1dfee2f869c1dea66297cf7e.js",
+    "precache-manifest.454ddfc5bc7fe5b0d5293f49e8e4c041.js": "/Dau-Reviews/precache-manifest.454ddfc5bc7fe5b0d5293f49e8e4c041.js",
     "service-worker.js": "/Dau-Reviews/service-worker.js",
     "static/css/3.9700ff68.chunk.css.map": "/Dau-Reviews/static/css/3.9700ff68.chunk.css.map",
     "static/css/main.fc5e4f24.chunk.css.map": "/Dau-Reviews/static/css/main.fc5e4f24.chunk.css.map",
@@ -41,6 +41,6 @@
     "static/js/runtime-main.459a3710.js",
     "static/js/2.0e7952d9.chunk.js",
     "static/css/main.fc5e4f24.chunk.css",
-    "static/js/main.24676167.chunk.js"
+    "static/js/main.625fd7fa.chunk.js"
   ]
 }
